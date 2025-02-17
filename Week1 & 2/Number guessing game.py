@@ -31,3 +31,4 @@ def random_guess():
         except ValueError:
             print("Invalid input")
 
+random_guess()
